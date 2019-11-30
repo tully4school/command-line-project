@@ -20,7 +20,7 @@ class Person(BaseModel):
 db.connect()
 db.create_tables([Person])
 
-res = input("would you like to create a new contact? (y / n)")
+res = input("would you like to create a new contact? (y / n) ")
 if res == 'y':
     new_name = input("add a name: ")
     new_year = int(input("what year were they born? "))
