@@ -1,9 +1,6 @@
 # Little Black Book
-===================
 
 ## Created with
-===============
-
 * Python
 * Peewee
 * SQL
