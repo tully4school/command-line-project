@@ -1,6 +1,6 @@
 # Little Black Book
 
-[BlackBook IMG](https://raw.githubusercontent.com/tully4school/command-line-project/master/littleblackbook.png)
+![Contacts](https://raw.githubusercontent.com/tully4school/command-line-project/master/littleblackbook.png "contact list")
 
 ## Created with
 
